@@ -16,10 +16,10 @@ print((a+2)-(a%2))
 # 5. Какое из чисел больше?
 a = int(input("Enter a: "))
 b = int(input("Enter b: "))
-if a > b:
-    print(a)
+if a >b:
+    print(1)
 elif a < b:
-    print(b)
+    print(2)
 else:
     print(0)
 
